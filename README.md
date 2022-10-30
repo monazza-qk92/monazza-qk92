@@ -1,4 +1,4 @@
-      **Hi there this is Monazza** 👋 
+       Hi there this is Monazza  👋 
    
    
 - 👀  I’m interested in Artificial Intelligence and Web development
